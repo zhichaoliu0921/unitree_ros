@@ -41,7 +41,7 @@
             <geometry>
                 <mesh filename="package://aliengo_description/meshes/trunk.dae" scale="1 1 1"/>
             </geometry>
-            <material name="orange"/>
+            <material name="black"/>
         </visual>
         <collision>
             <origin rpy="0 0 0" xyz="0 0 0"/>
